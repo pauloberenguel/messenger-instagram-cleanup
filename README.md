@@ -97,7 +97,7 @@ This project is provided for personal use and educational purposes. It is offere
 
 ## License
 
-This project is released under the MIT License. Add a `LICENSE` file containing the standard MIT License text before publishing the repository.
+This project is released under the MIT License. The repository includes the LICENSE file containing the standard MIT License text.
 
 ## References
 
